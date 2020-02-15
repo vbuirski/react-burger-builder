@@ -1,7 +1,6 @@
 import React from 'react';
 
 import classes from './BuildControl.module.css';
-import { createPropertySignature } from 'typescript';
 
 const buildControl = (props) => (
  <div className={classes.BuildControl}>
